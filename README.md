@@ -15,7 +15,7 @@
 
 Hi, I'm Steven, a passionate software developer from South Africa.
 
-- 🔭 I’m currently working on clones for popular websites
+- 🔭 I’m currently working on website clones of popular companies
 - 🌱 I’m currently learning ReactJs
 - 👯 I’m looking to collaborate on Open Source projects
 - 💬 Ask me about anything
