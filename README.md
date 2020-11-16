@@ -1,13 +1,13 @@
 ### Hi there, I'm StevenPss! 👋
 
 <a href="https://www.linkedin.com/in/stevenpss">
-  <img align="left" alt="StevenPss | Linkedin" width="20px" src="https://raw.githubusercontent.com/stevenpss/stevenpss/master/assets/linkedin.svg" />
+  <img align="left" alt="StevenPss | Linkedin" width="20px" src="https://raw.githubusercontent.com/stevenpss/stevenpss/main/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/stevenpss_">
-  <img align="left" alt="StevenPss | Twitter" width="21px" src="https://raw.githubusercontent.com/stevenpss/stevenpss/master/assets/twitter.svg" />
+  <img align="left" alt="StevenPss | Twitter" width="21px" src="https://raw.githubusercontent.com/stevenpss/stevenpss/main/assets/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/stevenpss_">
-  <img align="left" alt="StevenPss | Instagram" width="21px" src="https://raw.githubusercontent.com/stevenpss/stevenpss/master/assets/instagram.svg" />
+  <img align="left" alt="StevenPss | Instagram" width="21px" src="https://raw.githubusercontent.com/stevenpss/stevenpss/main/assets/instagram.svg" />
 </a>
 
 <br />
