@@ -17,8 +17,3 @@ Aside from coding 👨‍💻 I love to draw ✍️ and play piano 🎹
     <img src="https://user-images.githubusercontent.com/66909427/106758969-d73a7180-663a-11eb-9103-a93ea0e77b0a.png" width="156" alt="Follow @stevenselolo on Instagram" title="Follow @stevenselolo on Instagram">
   </a>
 </p>
-
-
-
-
-
