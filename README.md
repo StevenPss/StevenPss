@@ -1,42 +1,24 @@
-### Hi there, I'm StevenPss! 👋
+### Hi! I'm [Steven Selolo](https://linktr.ee/stevenselolo) 👋🏾
 
-<a href="https://www.linkedin.com/in/stevenpss">
-  <img align="left" alt="StevenPss | Linkedin" width="20px" src="https://raw.githubusercontent.com/stevenpss/stevenpss/main/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/stevenpss_">
-  <img align="left" alt="StevenPss | Twitter" width="21px" src="https://raw.githubusercontent.com/stevenpss/stevenpss/main/assets/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/stevenpss_">
-  <img align="left" alt="StevenPss | Instagram" width="21px" src="https://raw.githubusercontent.com/stevenpss/stevenpss/main/assets/instagram.svg" />
-</a>
+I'm a **Full Stack Developer** based in Johannesburg, South Africa. I'm currently focused on **JavaScript**, **React** & **PHP**, **Laravel**. Interested in **OpenSource** ❤️, design, tech, game development 🎮 and 3d modelling 🎨. 
 
-<br />
-<br />
+Aside from coding 👨‍💻 I love to draw ✍️ and play piano 🎹
 
-Hi, I'm Steven, a passionate software developer from South Africa.
+<p>
+  <a href="https://twitter.com/intent/follow?screen_name=stevenselolo">
+    <img src="https://user-images.githubusercontent.com/66909427/106758558-524f5800-663a-11eb-8c15-29b6c7fc830b.png" width="144" alt="Follow @stevenselolo on Twitter" title="Follow @stevenselolo on Twitter">
+  </a>
 
-- 🔭 I’m currently working on website clones of popular companies
-- 🌱 I’m currently learning ReactJs
-- 👯 I’m looking to collaborate on Open Source projects
-- 💬 Ask me about anything
-- 🥅 2021 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love to draw and play piano
+   <a href="https://www.linkedin.com/in/stevenselolo/">
+    <img src="https://user-images.githubusercontent.com/66909427/106758810-a22e1f00-663a-11eb-8988-8e6eb8e7f608.png" width="144" alt="Connect @stevenselolo on LinkedIn" title="Connect @stevenselolo on LinkedIn">
+  </a>
 
-**Languages and Tools:**
+  <a href="https://www.instagram.com/stevenselolo/">
+    <img src="https://user-images.githubusercontent.com/66909427/106758969-d73a7180-663a-11eb-9103-a93ea0e77b0a.png" width="156" alt="Follow @stevenselolo on Instagram" title="Follow @stevenselolo on Instagram">
+  </a>
+</p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
 
----
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=StevenPss&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight" alt="StevenPss's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenPss&layout=compact&theme=material-palenight" />
-</a>
+
+
