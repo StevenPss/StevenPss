@@ -1,6 +1,6 @@
 ### Hi! I'm [Steven Selolo](https://linktr.ee/stevenselolo) 👋🏾
 
-I'm a **Full Stack Developer** based in Johannesburg, South Africa. I'm currently focused on **JavaScript**, **React** & **PHP**, **Laravel**. Interested in **OpenSource** ❤️, design, tech, game development 🎮 and 3d modelling 🎨. 
+I'm a **Software Engineer** based in Johannesburg, South Africa. I'm currently focused on **JavaScript**, **React** & **PHP**, **Laravel**. Interested in **OpenSource** ❤️, design, tech, game development 🎮 and 3d modelling 🎨. 
 
 Aside from coding 👨‍💻 I love to draw ✍️ and play piano 🎹
 
@@ -17,7 +17,7 @@ Aside from coding 👨‍💻 I love to draw ✍️ and play piano 🎹
     <img src="https://user-images.githubusercontent.com/66909427/106758969-d73a7180-663a-11eb-9103-a93ea0e77b0a.png" width="156" alt="Follow @stevenselolo on Instagram" title="Follow @stevenselolo on Instagram">
   </a>
 
-  <a href="https://www.youtube.com/channel/UCVNCHxRYBFsr--S87eLyiMw">
-    <img src="https://user-images.githubusercontent.com/66909427/110124887-54d4d700-7dcb-11eb-88c4-e299f897e39b.png" width="156" alt="Subscribe @ProgrammersHideout on YouTube" title="Subscribe @ProgrammersHideout on YouTube">
-  </a>
+  <!--<a href="https://www.youtube.com/channel/">
+    <img src="https://user-images.githubusercontent.com/66909427/110124887-54d4d700-7dcb-11eb-88c4-e299f897e39b.png" width="156" alt="Subscribe @ChannelName on YouTube" title="Subscribe @ChannelName on YouTube">
+  </a>-->
 </p>
