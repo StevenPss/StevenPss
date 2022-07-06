@@ -1,6 +1,6 @@
 ### Heita 👋 ! I'm Steven Selolo 
 
-A serial design lover and full-stack developer with a background in computer science and informatics based in **Johannesburg, South Africa** 🌍. Wanna ever chat about: *code 💻, design 🎨, life 🧬 or even football ⚽*?
+A Full Stack Engineer & Cyber Security Enthusiast based in **South Africa** 🌍. Wanna ever chat about: *code 💻, design 🎨, life 🧬 or even football ⚽*?
 
 <!-- qoutes here -->
 
