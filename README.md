@@ -1,6 +1,6 @@
 A highly driven 8xAWS Certified Cloud Engineer adept at crafting and executing cloud-based solutions leveraging AWS services. Demonstrated success in deploying automation scripts and enforcing cloud security policies, leading to a 40% decrease in manual workload and a 30% drop in security-related incidents. Proficient in monitoring and evaluating cloud performance indicators, adept at pinpointing and rectifying problems before they affect end-users. Passionate about AWS, security, and GenAI.
 
-My Goals for the year 2024:
+:construction: My Goals for the year 2024:
 
 - Build a ton of public AWS projects and share them on GitHub
 - Attend a ton of AWS meetups
