@@ -1,4 +1,4 @@
-A highly driven 8xAWS Certified Cloud Engineer adept at crafting and executing cloud-based solutions leveraging AWS services. Passionate about AWS, security, and GenAI.
+A highly driven 8xAWS Certified Cloud Engineer adept at crafting and executing cloud-based solutions leveraging AWS services.
 
 :construction: My Goals for the year 2024:
 
