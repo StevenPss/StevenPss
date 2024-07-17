@@ -1,6 +1,6 @@
 A highly driven 8xAWS Certified Cloud Engineer adept at crafting and executing cloud-based solutions leveraging AWS services.
 
-:construction: My Goals for the year 2024:
+:construction: My Goals for the year 2025:
 
 - Build a ton of public AWS projects and share them on GitHub
 - Attend a ton of AWS meetups
